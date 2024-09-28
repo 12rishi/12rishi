@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishiram Thapa</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px" align="right"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5nMHByNmozN2s0a2o5YTE1eGd3MTVuMWIwZG81bWo1amY2dWU0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12rishi&label=Profile%20views&color=0e75b6&style=flat" alt="12rishi" /> </p>
 
