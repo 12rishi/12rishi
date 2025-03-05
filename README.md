@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12rishi&label=Profile%20views&color=0e75b6&style=flat" alt="12rishi" /> </p>
 
-- 🌱 I’m currently learning **SASS development**
+- 🌱 I’m currently learning **Digital Marketing**
 
 - 📫 How to reach me **thaparishi369@gmail.com**
 
